@@ -1,0 +1,17 @@
+name: AstronomicalData
+channels:
+  - default
+  - conda-forge
+  - astropy
+dependencies:
+  - python>=3.6
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - pytables
+  - h5py
+  - scipy
+  - astropy
+  - astroquery
+  - gala
